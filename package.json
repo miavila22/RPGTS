@@ -11,7 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^20.10.2",
+    "@types/readline-sync": "^1.4.8",
     "@types/uuid": "^9.0.7",
+    "readline-sync": "^1.4.10",
     "uuid": "^9.0.1"
   }
 }
